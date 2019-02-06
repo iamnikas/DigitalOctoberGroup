@@ -6,9 +6,9 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-*-lock.json
-node_modules
-.nuxt 
+package-lock.json
+node_modules/
+.nuxt/
 
 # Runtime data
 pids
